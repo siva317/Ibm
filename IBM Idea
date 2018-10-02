@@ -1,0 +1,35 @@
+PROBLEM STATEMENT:
+        Help me with my Mood- With Social-media Health Analysis and Display
+Engine (SHADE).
+
+       "The proposed challenge is to know the emotion/mood of a person and to help in eliminating any negative state of mind that might have adverse effect on his/her daily life".
+
+
+TEAM MEMBERS:
+             R.SIVAKUMAR
+             D.UDHAYAKUMAR
+             SHIRISH
+             MOHNISH
+
+SOLUTION APPROACH:
+          
+         We need to display the profile of the person.
+         We need to analyse the person for about 24 hours in social media for a certain period of time.
+         It is necessary to eliminate negative emotions that our family or friends might be experiencing, to help them lead a better life.
+         Predicting his mood accordingly and perform sentiment/predictive analysis using certain technologies.
+         Timely analysis of a user’s social media can be used to improve the feelings, and even save a person’s life in an extreme case.
+ 
+SCOPE:
+       It will provide solution and also helps in improving the knowledge in IBM cloud and IBM Watson.
+
+PLATFORM/TOOLS USED:
+ 
+      JAVA
+      PYTHON         
+
+TECHNOLOGY USED:
+
+ IBM Cloud
+ IBM Watson
+ 
+          
